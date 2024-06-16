@@ -1,0 +1,25 @@
+<com.fmt.Store>
+  <street>456 Main Ave</street>
+  <city>Sioux Falls</city>
+  <state>SD</state>
+  <zipCode>57005</zipCode>
+  <country>US</country>
+  <storeCode>642kln</storeCode>
+  <managerCode>4jdk53</managerCode>
+</com.fmt.Store><com.fmt.Store>
+  <street>938 Brickyard Rd</street>
+  <city>Midway</city>
+  <state>FL</state>
+  <zipCode>32343</zipCode>
+  <country>US</country>
+  <storeCode>4dj4si</storeCode>
+  <managerCode>dsjdk3</managerCode>
+</com.fmt.Store><com.fmt.Store>
+  <street>3465 Philips Hwy</street>
+  <city>Jacksonville</city>
+  <state>Fl</state>
+  <zipCode>32207</zipCode>
+  <country>US</country>
+  <storeCode>9d2sjd</storeCode>
+  <managerCode>dkdk3s</managerCode>
+</com.fmt.Store>

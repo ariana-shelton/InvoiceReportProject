@@ -1,0 +1,65 @@
+{
+  "model": "F150",
+  "code": "7143fas",
+  "type": "E",
+  "name": "Truck"
+}{
+  "model": "Ecofuge",
+  "code": "17ddk45",
+  "type": "E",
+  "name": "Plow"
+}{
+  "model": "Snow Solutions",
+  "code": "432nkhj",
+  "type": "E",
+  "name": "Snow Plow"
+}{
+  "model": "Bobcat",
+  "code": "783dfds",
+  "type": "E",
+  "name": "Forklift"
+}{
+  "unit": "bag",
+  "unitPrice": 20.0,
+  "code": "5432ffa",
+  "type": "P",
+  "name": "Seed"
+}{
+  "unit": "gallon",
+  "unitPrice": 8.0,
+  "code": "97efe32",
+  "type": "P",
+  "name": "Water"
+}{
+  "unit": "box",
+  "unitPrice": 10.0,
+  "code": "242ads2",
+  "type": "P",
+  "name": "Nails"
+}{
+  "unit": "box",
+  "unitPrice": 12.0,
+  "code": "24dsf34",
+  "type": "P",
+  "name": "Screws"
+}{
+  "hourlyRate": 15.0,
+  "code": "341fds2",
+  "type": "S",
+  "name": "Delivery"
+}{
+  "hourlyRate": 30.0,
+  "code": "32nkl4",
+  "type": "S",
+  "name": "Seeding"
+}{
+  "hourlyRate": 50.0,
+  "code": "324n32",
+  "type": "S",
+  "name": "Tractor Driving"
+}{
+  "hourlyRate": 30.0,
+  "code": "34freg",
+  "type": "S",
+  "name": "Plowing"
+}

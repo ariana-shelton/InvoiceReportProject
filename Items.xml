@@ -1,0 +1,65 @@
+<com.fmt.Equipment>
+  <code>7143fas</code>
+  <type>E</type>
+  <name>Truck</name>
+  <model>F150</model>
+</com.fmt.Equipment><com.fmt.Equipment>
+  <code>17ddk45</code>
+  <type>E</type>
+  <name>Plow</name>
+  <model>Ecofuge</model>
+</com.fmt.Equipment><com.fmt.Equipment>
+  <code>432nkhj</code>
+  <type>E</type>
+  <name>Snow Plow</name>
+  <model>Snow Solutions</model>
+</com.fmt.Equipment><com.fmt.Equipment>
+  <code>783dfds</code>
+  <type>E</type>
+  <name>Forklift</name>
+  <model>Bobcat</model>
+</com.fmt.Equipment><com.fmt.Product>
+  <code>5432ffa</code>
+  <type>P</type>
+  <name>Seed</name>
+  <unit>bag</unit>
+  <unitPrice>20.0</unitPrice>
+</com.fmt.Product><com.fmt.Product>
+  <code>97efe32</code>
+  <type>P</type>
+  <name>Water</name>
+  <unit>gallon</unit>
+  <unitPrice>8.0</unitPrice>
+</com.fmt.Product><com.fmt.Product>
+  <code>242ads2</code>
+  <type>P</type>
+  <name>Nails</name>
+  <unit>box</unit>
+  <unitPrice>10.0</unitPrice>
+</com.fmt.Product><com.fmt.Product>
+  <code>24dsf34</code>
+  <type>P</type>
+  <name>Screws</name>
+  <unit>box</unit>
+  <unitPrice>12.0</unitPrice>
+</com.fmt.Product><com.fmt.Service>
+  <code>341fds2</code>
+  <type>S</type>
+  <name>Delivery</name>
+  <hourlyRate>15.0</hourlyRate>
+</com.fmt.Service><com.fmt.Service>
+  <code>32nkl4</code>
+  <type>S</type>
+  <name>Seeding</name>
+  <hourlyRate>30.0</hourlyRate>
+</com.fmt.Service><com.fmt.Service>
+  <code>324n32</code>
+  <type>S</type>
+  <name>Tractor Driving</name>
+  <hourlyRate>50.0</hourlyRate>
+</com.fmt.Service><com.fmt.Service>
+  <code>34freg</code>
+  <type>S</type>
+  <name>Plowing</name>
+  <hourlyRate>30.0</hourlyRate>
+</com.fmt.Service>

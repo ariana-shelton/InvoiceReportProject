@@ -1,0 +1,29 @@
+{
+  "invoiceCode": "INV001",
+  "itemCode": "1d4d89",
+  "purOrLease": "P",
+  "fee": 0.0,
+  "price": 85000.0,
+  "quanOrHours": 0.0
+}{
+  "invoiceCode": "INV001",
+  "itemCode": "3506f6",
+  "purOrLease": "L",
+  "fee": 3500.0,
+  "price": 0.0,
+  "startDate": "2022-01-01",
+  "endDate": "2022-12-31",
+  "quanOrHours": 0.0
+}{
+  "invoiceCode": "INV001",
+  "itemCode": "n3453js",
+  "fee": 0.0,
+  "price": 0.0,
+  "quanOrHours": 158.0
+}{
+  "invoiceCode": "INV001",
+  "itemCode": "n43k2l3",
+  "fee": 0.0,
+  "price": 0.0,
+  "quanOrHours": 3.5
+}

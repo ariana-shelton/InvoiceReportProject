@@ -1,0 +1,73 @@
+{
+  "personCode": "fdc267",
+  "firstName": "Staci",
+  "lastName": "Quarry",
+  "emails": [
+    "squarry0@reverbnation.com",
+    "squarry0@salon.com"
+  ],
+  "street": "601 Lotheville Road",
+  "city": "Savannah",
+  "state": "GA",
+  "zipCode": "31405",
+  "country": "US"
+}{
+  "personCode": "0375b6",
+  "firstName": "Nonnah",
+  "lastName": "Michelotti",
+  "emails": [
+    "nmichelotti1@sbwire.com",
+    "nmichelotti1@vistaprint.com",
+    "nmichelotti1@gravatar.com",
+    "nmichelotti1@patch.com"
+  ],
+  "street": "0 Havey Avenue",
+  "city": "Cleveland",
+  "state": "OH",
+  "zipCode": "44177",
+  "country": "US"
+}{
+  "personCode": "kl3fd2",
+  "firstName": "John",
+  "lastName": "Doe",
+  "emails": [],
+  "street": "250 South Drive",
+  "city": "Lincoln",
+  "state": "NE",
+  "zipCode": "68501",
+  "country": "US"
+}{
+  "personCode": "dfa32d",
+  "firstName": "Brandon",
+  "lastName": "Smith",
+  "emails": [],
+  "street": "17 Arrowhead Lane",
+  "city": "Kansas City",
+  "state": "KS",
+  "zipCode": "64101",
+  "country": "US"
+}{
+  "personCode": "ad43df",
+  "firstName": "Zoey",
+  "lastName": "Johnson",
+  "emails": [
+    "zjohnson@gmail.com"
+  ],
+  "street": "135 Palm Tree Circle",
+  "city": "Miami",
+  "state": "FL",
+  "zipCode": "33101",
+  "country": "US"
+}{
+  "personCode": "dlfj33",
+  "firstName": "Braden",
+  "lastName": "Bush",
+  "emails": [
+    "bbush@gmail.com"
+  ],
+  "street": "346 Wednesday Avenue",
+  "city": "Tampa Bay",
+  "state": "FL",
+  "zipCode": "33559",
+  "country": "US"
+}

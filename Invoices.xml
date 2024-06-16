@@ -1,0 +1,115 @@
+<com.fmt.Invoice>
+  <invoiceCode>INV001</invoiceCode>
+  <storeCode>
+    <street>456 Main Ave</street>
+    <city>Sioux Falls</city>
+    <state>SD</state>
+    <zipCode>57005</zipCode>
+    <country>US</country>
+    <storeCode>642kln</storeCode>
+    <managerCode>4jdk53</managerCode>
+  </storeCode>
+  <customerCode>
+    <street>601 Lotheville Road</street>
+    <city>Savannah</city>
+    <state>GA</state>
+    <zipCode>31405</zipCode>
+    <country>US</country>
+    <personCode>fdc267</personCode>
+    <firstName>Staci</firstName>
+    <lastName>Quarry</lastName>
+    <emails>
+      <string>squarry0@reverbnation.com</string>
+      <string>squarry0@salon.com</string>
+    </emails>
+  </customerCode>
+  <salespersonCode>
+    <street>0 Havey Avenue</street>
+    <city>Cleveland</city>
+    <state>OH</state>
+    <zipCode>44177</zipCode>
+    <country>US</country>
+    <personCode>0375b6</personCode>
+    <firstName>Nonnah</firstName>
+    <lastName>Michelotti</lastName>
+    <emails>
+      <string>nmichelotti1@sbwire.com</string>
+      <string>nmichelotti1@vistaprint.com</string>
+      <string>nmichelotti1@gravatar.com</string>
+      <string>nmichelotti1@patch.com</string>
+    </emails>
+  </salespersonCode>
+  <date>2022-12-01</date>
+</com.fmt.Invoice><com.fmt.Invoice>
+  <invoiceCode>INV002</invoiceCode>
+  <storeCode>
+    <street>938 Brickyard Rd</street>
+    <city>Midway</city>
+    <state>FL</state>
+    <zipCode>32343</zipCode>
+    <country>US</country>
+    <storeCode>4dj4si</storeCode>
+    <managerCode>dsjdk3</managerCode>
+  </storeCode>
+  <customerCode>
+    <street>250 South Drive</street>
+    <city>Lincoln</city>
+    <state>NE</state>
+    <zipCode>68501</zipCode>
+    <country>US</country>
+    <personCode>kl3fd2</personCode>
+    <firstName>John</firstName>
+    <lastName>Doe</lastName>
+    <emails/>
+  </customerCode>
+  <salespersonCode>
+    <street>17 Arrowhead Lane</street>
+    <city>Kansas City</city>
+    <state>KS</state>
+    <zipCode>64101</zipCode>
+    <country>US</country>
+    <personCode>dfa32d</personCode>
+    <firstName>Brandon</firstName>
+    <lastName>Smith</lastName>
+    <emails/>
+  </salespersonCode>
+  <date>2022-11-03</date>
+</com.fmt.Invoice><com.fmt.Invoice>
+  <invoiceCode>INV003</invoiceCode>
+  <storeCode>
+    <street>3465 Philips Hwy</street>
+    <city>Jacksonville</city>
+    <state>Fl</state>
+    <zipCode>32207</zipCode>
+    <country>US</country>
+    <storeCode>9d2sjd</storeCode>
+    <managerCode>dkdk3s</managerCode>
+  </storeCode>
+  <customerCode>
+    <street>135 Palm Tree Circle</street>
+    <city>Miami</city>
+    <state>FL</state>
+    <zipCode>33101</zipCode>
+    <country>US</country>
+    <personCode>ad43df</personCode>
+    <firstName>Zoey</firstName>
+    <lastName>Johnson</lastName>
+    <emails>
+      <string>zjohnson@gmail.com</string>
+    </emails>
+  </customerCode>
+  <salespersonCode>
+    <street>346 Wednesday Avenue</street>
+    <city>Tampa Bay</city>
+    <state>FL</state>
+    <zipCode>33559</zipCode>
+    <country>US</country>
+    <personCode>dlfj33</personCode>
+    <firstName>Braden</firstName>
+    <lastName>Bush</lastName>
+    <emails>
+      <string>bbush@gmail.com</string>
+    </emails>
+  </salespersonCode>
+  <date>2022-10-07</date>
+</com.fmt.Invoice>
